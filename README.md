@@ -28,4 +28,4 @@ O objetivo do jogo é adivinhar um número secreto entre 1 e 10. O jogador faz p
 - O jogo continua até que o jogador acerte o número secreto.
 
 # Como visualizar o projeto
-Você pode visualizar o projeto online através do [GitHub Pages]()
+Você pode visualizar o projeto online através do [Vercel](https://jogo-numero-secreto-ruby-two.vercel.app/)
